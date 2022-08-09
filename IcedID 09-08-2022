@@ -1,0 +1,47 @@
+URL > Zip > ISO > .LNK > CMD > ....
+rundll32 IMPLIED\ .dat, #1
+rundll32 IMPLIED\ Kkdfgf6f2j7gkfd.pdf (speculate it invokes a .dll within the file which is password protected.)
+
+Email Subject: Outstanding payment Invoice 21825
+Message ID: ad0b2d81751daba780d56330c4016b6745497b89@email.schp.cz
+
+Stage 1 Observed Email Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: information-0010.zip
+MD5: a047b83e70c0f9eb79843beeac2283b0
+SHA256: 70f5acf21b276b475e61e912e00855fd1680cbbac03ff21816660fdb118913bb
+File Size: 547940 bytes (535K)
+
+Email Infection URL(s):
+hXXps://c1949124[.]myzen[.]co[.]uk/invoices/
+
+Email Infection URL IP(s):
+88.98.24.73
+
+Stage 2 Discovered Indicators of Compromise (IOCs):
+Malicious File(s):
+File Name: Kkdfgf6f2j7gkfd.pdf
+MD5: 1f4cbc5df4ee4e09bc625a9092d0a8ec
+SHA256: 9abf25f0e1503cb38da963afca7f2aa079f9e60f0bb7cc7b53e0a6e5760074e7
+File Size: 88845 bytes (86K)
+
+File Name: FAMILY.dat
+MD5: d76b51c7be4f4b7f5fd3f273f535e8e8
+SHA256: 0cae01ffecfcb086909dc84463712224d381a40f8908e40053763073fb011b9a
+File Size: 248320 bytes (242K)
+
+File Name: information.pdf.lnk
+MD5: afebae6260037e556b09d889dbbe8087
+SHA256: ede8432c6d55c6a3ea38febd6d3e0da13f0956f944f735d173edc7c9b42cc0db
+File Size: 1406 bytes (1K)
+
+File Name: information-0010.iso
+MD5: 7c620fc83ed2ed6ba5875c217722d420
+SHA256: 618a6699dadb74d3abde38065d1a4aadf1423975db1847c1bd59e79b0470157e
+File Size: 1583104 bytes (1M)
+
+Malware Family/Delivery Mechanism(s):
+IcedID
+
+Phenotype(s):
+Banker
